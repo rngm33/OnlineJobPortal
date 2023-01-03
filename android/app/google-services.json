@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "46150611821",
+    "project_id": "onlinejobportal-46987",
+    "storage_bucket": "onlinejobportal-46987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46150611821:android:0eea6284719eace4f5a064",
+        "android_client_info": {
+          "package_name": "com.bross.online_job_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46150611821-923on83b992m6jnoenmft4nprfibp8t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bross.online_job_portal",
+            "certificate_hash": "64116d6bf662655d1244dd834bf590e1521e74f1"
+          }
+        },
+        {
+          "client_id": "46150611821-d22u06av3q0nnn0a6at1qabehfbjt34e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Iy7-6ImmSYOphYhYJGLd8VcG0V8OKJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46150611821-d22u06av3q0nnn0a6at1qabehfbjt34e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
